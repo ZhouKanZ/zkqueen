@@ -2,7 +2,6 @@ package comzkqueen.customview.widget;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
-import android.animation.ValueAnimator;
 import android.content.Context;
 import android.graphics.drawable.BitmapDrawable;
 import android.support.constraint.ConstraintLayout;
@@ -15,7 +14,6 @@ import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 
 import comzkqueen.customview.R;
-import comzkqueen.customview.utils.Utils;
 
 /**
  * @author : zk

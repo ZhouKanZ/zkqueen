@@ -3,7 +3,7 @@
     package="com.zkqueen.diffname">
 
     <application>
-        <activity android:name=".MoudleButterKnifeActivity"></activity>
+        <activity android:name=".MoudleButterKnifeActivity"/>
     </application>
 
 </manifest>

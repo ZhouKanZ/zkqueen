@@ -1,1 +1,1 @@
-include ':app', ':diffname', ':nodiffmoudle', ':testmoudle'
+include ':app'
